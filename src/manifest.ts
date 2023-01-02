@@ -53,6 +53,7 @@ export async function getManifest() {
         ? `script-src 'self' http://localhost:${port}; object-src 'self' http://localhost:${port}`
         : 'script-src \'self\'; object-src \'self\'',
     },
+    homepage_url: 'https://ravigation.netlify.app',
   }
 
   if (isDev)

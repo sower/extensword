@@ -1,5 +1,7 @@
 {
-  "cSpell.words": ["Vitesse"],
+  "cSpell.words": [
+    "Extensword"
+  ],
   "typescript.tsdk": "node_modules/typescript/lib",
   "vite.autoStart": false,
   "editor.codeActionsOnSave": {
